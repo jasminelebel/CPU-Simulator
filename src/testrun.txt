@@ -1,0 +1,14 @@
+
+UnsortedArray implementation:
+Current system time (cycles): 7795
+Total number of jobs executed: 100
+Average process waiting time: 4103
+Total number of priority changes: 3
+Actual system time needed to execute all jobs: 232 ms
+
+ArrayHeap Implementation:
+Current system time (cycles): 7795
+Total number of jobs executed: 100
+Average process waiting time: 4177
+Total number of priority changes: 3
+Actual system time needed to execute all jobs: 169 ms
